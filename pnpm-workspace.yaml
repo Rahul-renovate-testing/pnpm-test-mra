@@ -13,3 +13,5 @@ minimumReleaseAgeExclude:
   - '@next/swc-linux-x64-gnu@16.0.7 || 16.0.9 || 16.0.10'
   - '@next/swc-linux-x64-musl@16.0.7 || 16.0.9 || 16.0.10'
   - xmldoc@2.0.0
+  # Renovate security update: chalk@5.6.2
+  - chalk@5.6.2
